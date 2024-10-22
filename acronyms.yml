@@ -1,0 +1,70 @@
+---
+acronyms:
+  keys:
+    - shortname: CONICET
+      longname: Consejo Nacional de Investigaciones Científicas y Técnicas
+    - shortname: CENEP
+      longname: Centro de Estudios de Población
+      shortname: OLAC
+      longname: Observatorio Latinoamericano de Censos de Población
+    - shortname: ECLAC
+      longname: Economic Commission for Latin America and the Caribbean
+    - shortname: UN
+      longname: United Nations
+    - shortname: LAC
+      longname: Latin America & Caribbean
+    - shortname: LATAM
+      longname: Latin America
+    - shortname: COVID-19
+      longname: Coronavirus Disease of 2019
+    - shortname: TFR
+      longname: Total Fertility Rate
+    - shortname: VS  
+      longname: Vital Statistics
+    - shortname: WPP        
+      longname: World Population Prospects
+    - shortname: PBI        
+      longname: Producto Bruto Interno
+    - shortname: ONU        
+      longname: Organización de las Naciones Unidas
+    - shortname: ONG
+      longname: Organización No Gubernamental
+    - shortname: PEA
+      longname: Población Económicamente Activa
+    - shortname: CIIU
+      longname: Clasificación Industrial Internacional Uniforme de Actividades Económicas
+    - shortname: EPH
+      longname: Encuesta Permanente de Hogares
+    - shortname: INDEC
+      longname: Instituto Nacional de Estadística y Censos
+    - shortname: CIUO
+      longname: Clasificación Internacional Uniforme de Ocupaciones
+    - shortname: OIT
+      longname: Organización Internacional del Trabajo
+    - shortname: INE
+      longname: Instituto Nacional de Estadística
+    - shortname: CNO
+      longname: Clasificador Nacional de Ocupaciones
+    - shortname: CEN80
+      longname: Censo Nacional de Población y Vivienda 1980
+    - shortname: CO
+      longname: Clasificador de Ocupaciones
+    - shortname: CEN91
+      longname: Censo Nacional de Población, Hogares y Viviendas 1991
+    - shortname: CEN01
+      longname: Censo Nacional de Población, Hogares y Viviendas 2001
+    - shortname: CEN10
+      longname: Censo Nacional de Población, Hogares y Viviendas 2010
+    - shortname: CFI
+      longname: Consejo Nacional de Inversiones
+    - shortname: SEN
+      longname: Sistema Estadístico Nacional
+    - shortname: CSO
+      longname: Condición Socio-Ocupacional
+    - shortname: IPUMS
+      longname: Integrated Public Use Microdata Series
+    - shortname: TBM
+      longname: Tasa Bruta de Mortalidad
+---
+
+
