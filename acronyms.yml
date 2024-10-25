@@ -32,7 +32,7 @@ acronyms:
     - shortname: PEA
       longname: Población Económicamente Activa
     - shortname: CIIU
-      longname: Clasificación Industrial Internacional Uniforme de Actividades Económicas
+      longname: Clasificación Industrial Internacional Uniforme de Actividades Económicas
     - shortname: EPH
       longname: Encuesta Permanente de Hogares
     - shortname: INDEC
@@ -65,8 +65,5 @@ acronyms:
       longname: Integrated Public Use Microdata Series
     - shortname: TBM
       longname: Tasa Bruta de Mortalidad
-
-      
 ---
-
 
