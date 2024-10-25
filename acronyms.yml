@@ -5,7 +5,7 @@ acronyms:
       longname: Consejo Nacional de Investigaciones Científicas y Técnicas
     - shortname: CENEP
       longname: Centro de Estudios de Población
-      shortname: OLAC
+    - shortname: OLAC
       longname: Observatorio Latinoamericano de Censos de Población
     - shortname: ECLAC
       longname: Economic Commission for Latin America and the Caribbean
